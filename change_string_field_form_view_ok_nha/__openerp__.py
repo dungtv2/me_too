@@ -8,6 +8,7 @@
     """,
     'author': "HanelSoft",
     'website': 'http://www.hanelsoft.vn/',
+    'images': ['images/ab.jpg'],
     'depends': ['web'],
     'data': ['templates.xml'],
     'qweb': ['static/src/xml/formview.xml'],
